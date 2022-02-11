@@ -5,6 +5,6 @@ A smart and intentional woman with a passion for technology and personal develop
 - 🔭 I’m a Software engineer
 - 🌱 Building cool stuff with Springboot and React
 - 😄 Interested in Blockchain technology
-- 📫 How to reach me: [@saucekode](https://www.twitter.com/_saucekode)
+- 📫 How to reach me: [@saucekode](https://www.twitter.com/saucekode)
 - ⚡ Fun fact: I have this awesome friend who is the first man to walk on water - his name is Jesus 😄
 
